@@ -73,7 +73,7 @@ Open `http://localhost:3000` in your browser to chat with Sourcerer.
 ## Project Structure
 
 ```
-examples/clerk
+sourcerer
 ├── agent/sourcerer
 │   ├── sourcerer/langgraph   # LangGraph nodes and state
 │   ├── sourcerer/demo.py     # FastAPI entrypoint
