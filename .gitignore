@@ -17,7 +17,7 @@ server.log
 
 # Env files
 .env
-**/.env*
+**/.env
 
 # OS
 .DS_Store
