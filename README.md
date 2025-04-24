@@ -80,7 +80,6 @@ examples/clerk
 │   ├── pyproject.toml
 │   └── .env.example
 ├── sourcerer_ui
-│   ├── public/Sourcerer.png  # Logo image
 │   ├── src/components/Main.tsx
 │   └── .env.example
 ├── README.md
